@@ -15,7 +15,7 @@
    <a href="mailto:deyson12@gmail.com" mailto="deyson12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
-  <a href="https://deysonestrada.com" target="_blank">
+  <a href="http://deysonestrada.com" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
   </a>
 </div>
