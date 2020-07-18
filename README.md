@@ -2,11 +2,10 @@
   <img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.png?raw=true" alt="cover" />
 </div>
 
-## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
+## Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
 
 <h2><i>Follow me:</i></h2>
-<div  align="center">
-
+<div>
   <a href="https://www.linkedin.com/in/dfep/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
