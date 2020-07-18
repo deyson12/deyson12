@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/deyson12/deyson12/blob/master/cover.png?raw=true" alt="cover" />
+  <img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.png?raw=true" alt="cover" />
 </div>
 
 ## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
