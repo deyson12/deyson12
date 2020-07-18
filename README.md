@@ -4,12 +4,22 @@
 
 ## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://deysonestrada.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/deyson12)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dfep/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/deysonestrad/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:deyson12@gmail.com)
-<br />
+<h2><i>Follow me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/dfep/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/deysonestrad/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+   <a href="mailto:deyson12@gmail.com" mailto="deyson12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://deysonestrada.com" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+</div>
 <br />
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
