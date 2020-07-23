@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.png?raw=true" alt="cover" />
+  <a href="deysonestrada.com"><img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.png?raw=true" alt="cover" /></a>
 </div>
 
 ## Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
@@ -22,3 +22,11 @@
 <br />
 
 - 🧑🏽‍💻 I’m currently working on [Sura](https://www.suramericana.com/index.html)
+
+☕ • Back-End: Java <br>
+🅰️ • Front End: Angular <br>
+💽 • DataBases: Oracle, Mysql, MongoDB <br>
+✒️ • Design: Figma and Adobe XD <br>
+🗣️ • English: B1 <br>
+
+[deysonestrada.com](deysonestrada.com)
