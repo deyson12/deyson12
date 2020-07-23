@@ -21,7 +21,7 @@
 </div>
 <br />
 
-- 🧑🏽‍💻 I’m currently working on [Sura](https://www.suramericana.com/index.html)
+🧑🏽‍💻 I’m currently working on [Sura](https://www.suramericana.com/index.html)
 
 ☕ • Back-End: Java <br>
 🅰️ • Front End: Angular <br>
