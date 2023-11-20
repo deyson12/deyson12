@@ -21,12 +21,12 @@
 </div>
 <br />
 
-🧑🏽‍💻 I’m currently working at [Sura](https://www.suramericana.com/index.html)
+🧑🏽‍💻 I’m currently working at [Endava](https://www.endava.com/en/)
 
 ☕ • Back-End: Java <br>
 🅰️ • Front End: Angular <br>
-💽 • DataBases: Oracle, Mysql, MongoDB <br>
+💽 • DataBases: Oracle, Mysql, MongoDB, Postgres <br>
 ✒️ • Design: Figma and Adobe XD <br>
-🗣️ • English: B1 <br>
+🗣️ • English: B2 <br>
 
 [deysonestrada.com](http://deysonestrada.com)
