@@ -2,7 +2,8 @@
   <a href="http://deysonestrada.com"><img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.jpg?raw=true" alt="cover" /></a>
 </div>
 
-## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
+## Hi, I'm Deyson Estrada, a Technical Lead 🧑🏽‍💻 from Colombia. 
+I ❤️ code
 
 <h2><i>Follow me:</i></h2>
 <div>
@@ -18,5 +19,6 @@
 ☕ • Back-End: Java <br>
 🅰️ • Front End: Angular <br>
 💽 • DataBases: Oracle, Mysql, MongoDB, Postgres <br>
+☁️ • Cloud: AWS and Azure <br>
 ✒️ • Design: Figma and Adobe XD <br>
 🗣️ • English: B2+ <br>
