@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://deysonestrada.com"><img width="100%" src="https://raw.githubusercontent.com/deyson12/deyson12/master/github.jpg" alt="cover" /></a>
+  <a href="http://deysonestrada.com"><img width="100%" src="https://github.com/deyson12/deyson12/blob/master/github.png" alt="cover" /></a>
 </div>
 
 ## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
