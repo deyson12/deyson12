@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://deysonestrada.com"><img width="100%" src="https://raw.githubusercontent.com/deyson12/deyson12/master/github.png" alt="cover" /></a>
+  <a href="http://deysonestrada.com"><img width="100%" src="https://raw.githubusercontent.com/deyson12/deyson12/master/github.jpg" alt="cover" /></a>
 </div>
 
 ## Hi, I'm Deyson Estrada, a Developer 🧑🏽‍💻 from Colombia. I ❤️ code
@@ -12,21 +12,11 @@
   <a href="https://www.instagram.com/deysonestrad/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-   <a href="mailto:deyson12@gmail.com" mailto="deyson12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  <a href="http://deysonestrada.com" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>
 </div>
 <br />
-
-🧑🏽‍💻 I’m currently working at [Endava](https://www.endava.com/en/)
 
 ☕ • Back-End: Java <br>
 🅰️ • Front End: Angular <br>
 💽 • DataBases: Oracle, Mysql, MongoDB, Postgres <br>
 ✒️ • Design: Figma and Adobe XD <br>
-🗣️ • English: B2 <br>
-
-[deysonestrada.com](http://deysonestrada.com)
+🗣️ • English: B2+ <br>
